@@ -1,0 +1,4 @@
+include ':common_library'
+include ':ssl_library'
+include ':app'
+rootProject.name = "mvvm"
